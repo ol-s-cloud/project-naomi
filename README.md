@@ -4,6 +4,11 @@
 
 Institutional-grade trading infrastructure powered by explainable machine learning, ensemble modeling, and cross-platform integration across global financial markets.
 
+## 💰 Pricing Plans
+
+- **Premium Access**: £750 one-time payment (lifetime access)
+- **Monthly Subscription**: £99.99 per month (cancel anytime)
+
 ## 🚀 Features
 
 ### Market Access
@@ -85,7 +90,7 @@ project-naomi/
 
 - ✅ Responsive design
 - ✅ Market access cards with detailed features
-- ✅ Pricing plans (Lifetime £150, Monthly £200)
+- ✅ Pricing plans (Premium £750, Monthly £99.99)
 - ✅ Contact form with validation
 - ✅ Waitlist signup modal
 - ✅ Chat widget interface
